@@ -1,2 +1,3 @@
 # APIChuckNoris
-Created with CodeSandbox
+Implementação de API (Chuck Noris) em REACT.
+
